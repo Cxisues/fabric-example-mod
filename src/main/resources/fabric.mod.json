@@ -6,7 +6,7 @@
   "environment": "client",
   "entrypoints": {
     "client": [
-      "net.mod.macecombo.MaceComboClient"
+      "com.example.MaceComboClient"
     ]
   },
   "depends": {
