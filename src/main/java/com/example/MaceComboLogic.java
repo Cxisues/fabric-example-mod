@@ -1,4 +1,4 @@
-package net.mod.macecombo;
+package com.example;
 
 import net.minecraft.client.MinecraftClient;
 import net.minecraft.entity.Entity;
